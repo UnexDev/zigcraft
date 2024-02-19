@@ -19,6 +19,10 @@
             .url = "https://github.com/regenerativep/zigmcp/archive/f3a5d84ed361120163e38399722ecf36c7f456b3.tar.gz",
             .hash = "1220b28e319180bf525b020f0a62372920d50509011046a84b91030e249ee94dbc85",
         },
+        .libxev = .{
+            .url = "https://github.com/mitchellh/libxev/archive/4e6781895e4e6c477597c8c2713d36cd82b57d07.tar.gz",
+            .hash = "12203f87e00caa6c07c02a748f234a5c0ee2ca5c334ec464e88810d93e7b5495a56f",
+        },
     },
     .paths = .{
         // This makes *all* files, recursively, included in this package. It is generally
